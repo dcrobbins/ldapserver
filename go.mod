@@ -1,4 +1,4 @@
-module github.com/dcrobbi/ldapserver
+module github.com/dcrobbins/ldapserver
 
 go 1.13
 
